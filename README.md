@@ -30,7 +30,7 @@ Enhanced information retrieval capabilities, providing a robust solution for eff
 [Chat-With-Multiple-PDF-Documents-Using-Langchain-And-Google-Gemini.pptx]
 [AI_report (1).docx](https://github.com/DevanshShukla1/projects/files/15104152/AI_report.1.docx)
 
- # Smart Cradle for baby
+ # Smart Infant Cradle 
  Developed smart baby monitoring system utilizing Viola-Jones algorithm for live face detection.
 Monitored room conditions, cry detection, and facial emotions via IoT sensors.
 Transferred data to Blynk server for remote monitoring via mobile app.
