@@ -28,7 +28,7 @@ The development and implementation of LDWS and collision warning systems represe
 Created a Query PDF Question Answering System application utilizing Apache Cassandra, DataStax's Astra DB, LangChain, Streamlit, Python
 Enhanced information retrieval capabilities, providing a robust solution for efficient and effective query processing. Chat with multiple PDFs at once.
 [Chat-With-Multiple-PDF-Documents-Using-Langchain-And-Google-Gemini.pptx]
-[AI_report (1).docx](https://github.com/DevanshShukla1/projects/files/15104152/AI_report.1.docx)
+
 
 
  # Smart Infant Cradle 
